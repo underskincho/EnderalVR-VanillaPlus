@@ -11,6 +11,7 @@ This guide describes how to configure Skyrim VR to play Enderal: Forgotten Stori
 - [Enderal SE Mod](https://mod.pub/enderal-se/38/files)
 - [Premium NexusMods account](https://www.nexusmods.com/)
 - [Wabbajack](https://www.wabbajack.org/#/)
+- [EnderalVR-VanillaPlus](https://www.nexusmods.com/enderalspecialedition/mods/993)
 
 ## Installation
 
