@@ -118,6 +118,7 @@ This guide describes how to configure Skyrim VR to play Enderal: Forgotten Stori
 - [VR] Haptic Skyrim VR - Spellcasting and Enhanced Bow and Melee Haptics
 - [VR] HIGGS - Enhanced VR Interaction
 - [VR] Instant Equip VR
+- [VR] Interactive Activators VR
 - [VR] Magic Improvements for Skyrim VR
 - [VR] PLANCK - Physical Animation and Character Kinetics
 - [VR] Skyrim VR Tools
@@ -126,6 +127,7 @@ This guide describes how to configure Skyrim VR to play Enderal: Forgotten Stori
 - [VR] Subtitle Dialog HUD resize for VR
 - [VR] vrik neardistance fix patch for build 28
 - [VR] VRIK Player Avatar
+
 
 - [LOD] DynDOLOD 
  
