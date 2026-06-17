@@ -2,13 +2,13 @@
 
 ## Introduction:
 
-This guide describes how to configure Skyrim VR to play Enderal: Forgotten Stories SE v2.0.11 in VR using Wabbajack (v2.0.12 is not VR compatible). Note that the ONLY version of Skyrim you need is Skyrim VR. T
+This guide describes how to configure Skyrim VR to play Enderal: Forgotten Stories SE v2.1.4-2 in VR using Wabbajack. Note that the ONLY version of Skyrim you need is Skyrim VR. T
 
 ## Requirements
 
 - [The Elder Scrolls V: Skyrim VR](https://store.steampowered.com/app/611670/The_Elder_Scrolls_V_Skyrim_VR/)
 - Be registered in https://mod.pub/ (to download the Enderal Mod)
-- [Enderal SE Mod](https://mod.pub/enderal-se/38/files)
+- [Enderal SE Mod](https://mod.pub/enderal-se/38/files) Enderal SE (Full) v2.1.4-2 dont use the vr compatible.
 - [Wabbajack](https://www.wabbajack.org/#/)
 - [EnderalVR-VanillaPlus](https://www.nexusmods.com/enderalspecialedition/mods/993)
 
