@@ -27,11 +27,13 @@ This guide describes how to configure Skyrim VR to play Enderal: Forgotten Stori
 
 ## Modlist
 
+- [ANIM] Behaviors Pack for Enderal
 - [ANIM] CGO Stripped - Jump Attacks Leaning and Camera Noise ONLY
 - [ANIM] Ice skating fixed for real - No more attack sliding movement (NEMESIS compatible)
 - [ANIM] Neutral VR Animations for VRIK and PCEA2
 - [ANIM] Project New Reign - Nemesis PCEA
 - [ANIM] Project New Reign - Nemesis Unlimited Behavior Engine
+- [ANIM] Project New Reign - Nemesis Unlimited Behavior Engine Enderal
 - [ANIM] Super Fast Get Up Animation
 
 - [CLUT] Enhanced Textures Detail (UV-tweaks)
@@ -39,12 +41,11 @@ This guide describes how to configure Skyrim VR to play Enderal: Forgotten Stori
 - [CORE] Animated Static Reload Fix - NG
 - [CORE] Animation Motion Fix
 - [CORE] Animation Queue Fix
-- [CORE] Blank Binks - Null Videos
+- [CORE] Base Object Swapper VR
 - [CORE] Dialogue Movement Enabler VR
 - [CORE] Disk Cache Enabler
-- [CORE] Enderal SE (VR compatible)-38-2.0.11-2024.08.02-[mod.pub]
-- [CORE] Enderal SE - Bug Fixes
-- [CORE] Enderal VR
+- [CORE] Enderal SE (Full)-38-2.1.4-2-2026.02.01-[mod.pub]
+- [CORE] Enderal VR Patch 2.1.4.2 (Gameds)
 - [CORE] Engine Fixes VR
 - [CORE] Increase Actor Limit for VR
 - [CORE] JContainers VR
@@ -63,22 +64,8 @@ This guide describes how to configure Skyrim VR to play Enderal: Forgotten Stori
 - [CORE] Stagger Effect Fix
 - [CORE] VR Address Library for SKSEVR
 
-- [CS] Cloud Shadows - Community Shaders
-- [CS] Community Shaders
 - [CS] Crash Logger SSE AE VR - PDB support
-- [CS] Extended Translucency - Community Shaders
-- [CS] Grass Collision - Community Shaders
-- [CS] Grass Lighting - Community Shaders
-- [CS] Inverse Square Lighting - Community Shaders
-- [CS] Sky Sync - Community Shaders
-- [CS] Skylighting - Community Shaders
-- [CS] Subsurface Scattering - Community Shaders
-- [CS] Terrain Blending - Community Shaders
-- [CS] Terrain Shadows - Community Shaders [HEAVY PERFORMANCE]
-- [CS] Terrain Variation - Community Shaders
-- [CS] Upscaling - Community Shaders
-- [CS] Water Effects - Community Shaders
-- [CS] Wetness Effects - Community Shaders
+- [CS] Open Shaders
 
 - [ECO] Grass FPS Booster
 - [ECO] Storm Lightning for SSE and VR (Minty Lightning 2019)
